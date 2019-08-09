@@ -25,3 +25,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## About
+
+The system was built to aid in capturing online feedback to primary research. The questionnaire system has a secure administration back-end for questionnaire and question creation as well as providing a view for administrators to see the responses developed. The questionnaires are shown to users via an unsecured interface.
+
+
